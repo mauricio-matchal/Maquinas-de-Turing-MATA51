@@ -11,6 +11,8 @@ Esta é a planilha para Excel gerada a partir do arquivo MT1.jff contendo todas 
 ### MT2.xlsx
 Esta é a planilha para Excel gerada a partir do arquivo MT2.jff contendo todas as transições da máquina.
 ### excel generator.py
-Este foi o código escrito em Python para gerar as planilhas de transições da Máquina de Turing em formato .xlsx para Excel a partir dos arquivos .jff.
+Este foi o código escrito em Python para gerar as planilhas de transições da Máquina de Turing 1 em formato .xlsx para Excel a partir do arquivo MT1.jff.
+### excel generator2.py
+Este foi o código escrito em Python para gerar as planilhas de transições da Máquina de Turing 2, visto que as 3 fitas gera mais colunas que a primeira, em formato .xlsx para Excel a partir do arquivo MT2.jff.
 ### sorter.py
 Este foi o código escrito em Python para ordenar as planilhas de transições da Máquina de Turing de forma crescente considerando o número dos estados.
